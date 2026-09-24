@@ -2,23 +2,52 @@
     color: purple;
 } */
 
-.burger-recipe a{
-    color: orange;
-    font-family:'Courier New', Courier, monospace;
-    font-size: large;
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  margin: 10px auto;
+  display: inline-block;
 }
 
-/* h1 {
-    color: green;
-} */
+a {
+  font-family: "Courier New", Courier, monospace;
+  padding: 5px;
+  font-size: large;
+}
+
+.burger-recipe a {
+  color: orange;
+}
 
 .pizza-recipe a {
-    color: red;
+  color: red;
 }
 
 .lasagna-recipe a {
-    color: brown;
+  color: brown;
 }
 
+/* BURGER RECIPE */
+.ingredients {
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+  color: blue;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  padding: 10px;
+  border-radius: 25px;
+  margin: 10px;
+}
+
+.instructions {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: medium;
+}
+
+.heading {
+    font-size: large;
+}
 
 
